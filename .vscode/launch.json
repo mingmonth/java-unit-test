@@ -6,6 +6,60 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JoinTest2",
+            "request": "launch",
+            "mainClass": "JoinTest2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JoinTest",
+            "request": "launch",
+            "mainClass": "JoinTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - YieldTest",
+            "request": "launch",
+            "mainClass": "YieldTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeprecatedTest2",
+            "request": "launch",
+            "mainClass": "DeprecatedTest2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeprecatedTest",
+            "request": "launch",
+            "mainClass": "DeprecatedTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterruptTest",
+            "request": "launch",
+            "mainClass": "InterruptTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SleepTest",
+            "request": "launch",
+            "mainClass": "SleepTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DaemonThreadTest2",
+            "request": "launch",
+            "mainClass": "DaemonThreadTest2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DaemonThreadTest",
+            "request": "launch",
+            "mainClass": "DaemonThreadTest"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}",
