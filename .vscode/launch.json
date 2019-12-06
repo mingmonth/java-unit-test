@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SyncTest4",
+            "request": "launch",
+            "mainClass": "SyncTest4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SyncTest3",
+            "request": "launch",
+            "mainClass": "SyncTest3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SyncTest2",
+            "request": "launch",
+            "mainClass": "SyncTest2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SyncTest",
+            "request": "launch",
+            "mainClass": "SyncTest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - JoinTest2",
             "request": "launch",
             "mainClass": "JoinTest2"
