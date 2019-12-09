@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "MainClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyApp",
+            "request": "launch",
+            "mainClass": "MyApp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubDateTest",
+            "request": "launch",
+            "mainClass": "SubDateTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubDataTest",
+            "request": "launch",
+            "mainClass": "SubDataTest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SyncTest4",
             "request": "launch",
             "mainClass": "SyncTest4"
@@ -87,7 +111,7 @@
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "jdkpath": "C:/Program Files/Java/jdk1.8.0_202/bin"
+            "jdkPath": "C:/Program Files/Java/jdk1.8.0_202/bin"
         },
         {
             "type": "java",
